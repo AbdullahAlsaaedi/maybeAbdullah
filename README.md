@@ -1,6 +1,7 @@
 # Hey my friend! 
 
-this is the place where i save my projects, challenges, and random shit at
+this is the place where i save my projects, challenges, exercises, and random shit at
+im currently learning JavaScript, HTML5 and CSS3, i aspire to become a back-end dev and make really cool stuff 
 
 thats its, have a nice day <3
 
